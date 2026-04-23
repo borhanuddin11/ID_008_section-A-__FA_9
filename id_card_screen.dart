@@ -33,7 +33,7 @@ class IdCardScreen extends StatelessWidget {
 
                 // Name
                 Text(
-                  "Md. Mahdi Hossain Hira",
+                  "Md. Borhan Uddin",
                   style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
@@ -42,7 +42,7 @@ class IdCardScreen extends StatelessWidget {
 
                 // Department
                 Text(
-                  "Batch: 53rd, Department of CSE",
+                  "Batch: 63, Department of CSE",
                   style: TextStyle(color: Colors.grey),
                 ),
 
